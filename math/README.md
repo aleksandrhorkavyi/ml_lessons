@@ -4,10 +4,7 @@
     - ###### Применение линейной алгебры в Data Science.
     - ###### Обработка изображений и линейная алгебра
 
-- ###### Матрицы 
-[[mathprofi.ru](http://mathprofi.ru/deistviya_s_matricami.html),
-[mathprofi.ru](http://mathprofi.ru/kak_naiti_obratnuyu_matricu.html), 
-[mathprofi.ru](http://mathprofi.ru/rang_matricy.html)]
+- ###### Матрицы [[mathprofi.ru](http://mathprofi.ru/deistviya_s_matricami.html), [mathprofi.ru](http://mathprofi.ru/kak_naiti_obratnuyu_matricu.html), [mathprofi.ru](http://mathprofi.ru/rang_matricy.html)]
 
  
 
