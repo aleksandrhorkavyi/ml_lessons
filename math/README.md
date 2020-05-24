@@ -30,6 +30,9 @@
     - [Теория множеств](http://mathprofi.ru/mnozhestva.html) +
 
 - Пределы
+    - http://mathprofi.ru/predely_primery_reshenii.html  +-
+    - http://mathprofi.ru/zamechatelnye_predely.html
+    - http://mathprofi.ru/metody_resheniya_predelov_neopredelennosti.html
    
 - Производные функций
 
@@ -60,3 +63,7 @@
     -  Пределы
     -  Линейная регрессия
     -  Логистическая регрессия
+
+
+- Геометрия
+    - http://mathprofi.ru/grafiki_i_svoistva_funkcij.html
