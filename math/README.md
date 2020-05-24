@@ -1,6 +1,6 @@
 - Математическая логика
-    - [Основы математической логики](http://mathprofi.ru/osnovy_matematicheskoj_logiki.html)
-    - [Формулы и законы логики](http://mathprofi.ru/formuly_i_zakony_logiki.html)
+    - [Основы математической логики](http://mathprofi.ru/osnovy_matematicheskoj_logiki.html) +
+    - [Формулы и законы логики](http://mathprofi.ru/formuly_i_zakony_logiki.html) +
   
 - [Математические символы](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html#logic)
     
@@ -19,7 +19,7 @@
     - функция Эйлера
       
 -  Линейная алгебра
-    - [3Blue1Brown Русский](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2&index=1)
+    - [3Blue1Brown Русский](https://www.youtube.com/watch?v=RNTRYicPvWQ&list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2&index=1) +
     - Векторы
     - Матрицы   
     ...   
