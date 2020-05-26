@@ -31,8 +31,8 @@
 
 - Пределы
     - http://mathprofi.ru/predely_primery_reshenii.html  +-
-    - http://mathprofi.ru/zamechatelnye_predely.html
-    - http://mathprofi.ru/metody_resheniya_predelov_neopredelennosti.html
+    - http://mathprofi.ru/zamechatelnye_predely.html +-
+    - http://mathprofi.ru/metody_resheniya_predelov_neopredelennosti.html +(1/3 - "Подчеркиваю ещё раз, что данные")
    
 - Производные функций
 
